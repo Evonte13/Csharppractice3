@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\bin\Debug\onditional  practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\bin\Debug\onditional  practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\bin\Debug\onditional  practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\obj\Debug\onditional  practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\obj\Debug\onditional  practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onditional  practice\onditional  practice\obj\Debug\onditional  practice.pdb
